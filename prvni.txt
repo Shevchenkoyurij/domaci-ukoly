@@ -1,3 +1,5 @@
 U = untracked
 
 M = modified
+
+nova informace v soboru
